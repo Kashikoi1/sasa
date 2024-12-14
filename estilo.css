@@ -1,0 +1,24 @@
+#conteudo {
+  background-image: url(./real.png);
+  width: 100%;
+  height: 78%;
+  position: fixed;
+  TOP: 0;
+  LEFT: 0;
+  padding: 10PX;
+  text-align: center;
+  font-family: cursive;
+  color: #000000;
+  padding-top: 18%;
+}
+
+.btn {
+  padding: 7px;
+  background: rgb(165, 45, 155);
+  color: rgb(255, 255, 255);
+  width: 60px;
+  border-radius: 30px;
+  font-family: cursive;
+  border-color: rgb(165, 45, 155) ;
+
+}
